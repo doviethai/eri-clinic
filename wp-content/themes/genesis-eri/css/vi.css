@@ -1,0 +1,29 @@
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+	font-family: 'Open Sans', sans-serif;
+}
+.img_clss.it01 .caption-text{font-family: 'Open Sans', sans-serif; letter-spacing: 0;}
+.img_clss .caption-text{font-family: 'Open Sans', sans-serif;text-shadow:none !important;}
+ @media only screen and (max-width: 767px) {
+ 	.mn-top .navbar-default .navbar-toggle{margin-top: 11px;}
+ 	#dLabel{
+ 		padding: 3px 10px 2px;
+ 	}
+ }
+ @media only screen and (min-width: 320px) and (max-width: 479px) {
+ 	.number-phone{
+ 		width: 158px;
+ 		padding: 3px 5px;
+ 	}
+ 	.phone-nb .lg {
+	    width: 89px;
+	}
+	.mn-top .navbar-default .navbar-toggle{padding: 8px 11px;}
+	.mn-top .navbar-default .navbar-toggle{margin-top: 10px;}
+	#dLabel {
+	    padding: 3px 10px 4px;
+	}
+ }

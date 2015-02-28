@@ -1,0 +1,207 @@
+.service-top .col-md-12 h4{
+   margin: 36px 0 40px;
+   color: #58585a;
+   font-size: 30px;
+}
+.caption-text-wr h4.h4_cl40{color: #b7274c;}
+.caption-text-wr h4.h4_cl41{color: #b9994c;}
+.caption-text-wr h4.h4_cl42{color: #f58e80;}
+.caption-text-wr h4.h4_cl43{color: #58585a;}
+
+.caption-text-wr h4.h4_cl11{color: #b7274c;}
+.caption-text-wr h4.h4_cl12{color: #b9994c;}
+.caption-text-wr h4.h4_cl13{color: #f58e80;}
+.caption-text-wr h4.h4_cl14{color: #58585a;}
+
+
+.caption-text-wr h4.h4_cl67{color: #b7274c;}
+.caption-text-wr h4.h4_cl66{color: #b9994c;}
+.caption-text-wr h4.h4_cl65{color: #f58e80;}
+.caption-text-wr h4.h4_cl64{color: #58585a;}
+
+
+.caption-text-wr h4.h4_cl91{color: #b7274c;} /* Tim */
+.caption-text-wr h4.h4_cl92{color: #b9994c;} /* Vang */
+.caption-text-wr h4.h4_cl93{color: #f58e80;} /* Do */
+.caption-text-wr h4.h4_cl94{color: #58585a;} /* Den */
+
+
+
+.caption-text-wr h4.h4_cl68{color: #b7274c;}
+.caption-text-wr h4.h4_cl69{color: #b9994c;}
+.caption-text-wr h4.h4_cl70{color: #f58e80;}
+.caption-text-wr h4.h4_cl71{color: #58585a;}
+
+
+
+
+.desc-v{
+  width: 70%;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 18px;
+  text-transform:none;
+}
+nav ul li .dropdown-menu.mul-sub1 dd {
+ min-height: 0px;
+}
+#campain .sub_banner p{
+  margin: 0px;
+}
+
+
+#product_list_dr p{
+  margin: 0px;
+}
+#menu_dr .your-concerns{
+  display: none;
+}
+#men_dr .your-concerns{
+  display: none;
+}
+#men_dr .title-worries{
+  display: none;
+}
+
+
+#menu_prod_dr .your-concerns{
+ display: none;
+}
+/*.banner-top .caption-text{
+	display: block;
+}
+*/
+.page-menu .your-concerns{
+	display: none;
+}
+
+
+
+#menu_prod_dr .prod91,#menu_prod_dr .prod93,#menu_prod_dr .prod94{
+  -webkit-filter: blur(2px);
+  -moz-filter: blur(2px);
+  -o-filter: blur(2px);
+  -ms-filter: blur(2px);
+  filter: blur(2px);
+  opacity: 0.4;
+}
+#menu_prod_dr .prod91:hover,#menu_prod_dr .prod93:hover,#menu_prod_dr .prod94:hover{
+ -webkit-filter: blur(0px);
+ -moz-filter: blur(0px);
+ -o-filter: blur(0px);
+ -ms-filter: blur(0px);
+ filter: blur(0px);
+ opacity: 1;
+ transition: 
+ opacity 0.2s linear, 
+ text-shadow 0.5s ease-in-out, 
+ color 0.5s ease-in-out;
+}
+
+
+#history_dr .title-worries{
+  display: none;
+}
+
+.service-detail-1 .tab-sv p{
+  margin: 0px;
+}
+.panel-body li {
+    margin: 5px 0;
+}
+.panel-body li .fa.fa-arrow-circle-right {
+    margin-right: 10px;
+}
+#product_detail_dr .nav-tabs p{
+  
+}
+#product_detail_dr .tab-related-products p{
+  margin: 0px 0 10px;
+}
+/*#accordion .panel-default p{*/
+  /*margin: 10px 0 10px;*/
+/*}*/
+.widget_mqtranslate{
+  float: right;
+}
+
+#dLabel{
+  padding: 3px 6px;
+}
+
+body.home .carousel-indicators li {
+  background: none repeat scroll 0 0 #999;
+  border: none;
+  border-radius: 50% 50%;
+  cursor: pointer;
+  display: inline-block;
+  height: 8px;
+  margin: 3px;
+  text-indent: -999px;
+  width: 8px;
+}
+.carousel-indicators .active {
+  background-color: transparent;
+  border: 1px solid #08c;
+  height: 9px;
+  margin: 2px;
+  width: 9px;
+}
+
+.table-scroll-container
+{
+  width: 100%;
+  overflow-y: auto;
+  _overflow: auto;
+  margin: 0 0 1em;
+}
+
+.galery-left p{
+ display: inline;
+}
+.tbl100{
+  width: 100%;
+}
+.tbl50{
+  width: 50%;
+}
+
+.entry-content > p{
+  margin: 0px;
+}
+
+.news-title-box-footer{
+  color: #000000;
+}
+
+
+.about h3{
+  color: #696969;
+}
+
+.ads_right h1{
+
+}
+.ads_right{
+   display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+  height: 400px;
+  width: 250px;
+  background: url(../img/bg-qc.png) center;
+}
+
+/** HiepLT: Contact */
+.col-vmm label:before {
+    border: 0px solid #a6a6a6 !important;
+}
+.col-vmm label {
+    padding-left: 0px !important;
+}
+input[type=radio],
+input[type=checkbox] {
+    display: inline-block !important;
+}
+input[type=radio]:checked + label:before {
+    content: "" !important;
+}

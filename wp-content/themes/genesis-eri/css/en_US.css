@@ -1,0 +1,67 @@
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
+	font-family: 'Open Sans', sans-serif;
+}
+.img_clss.it01 .caption-text{font-family: 'Open Sans', sans-serif; letter-spacing: 0;}
+.img_clss .caption-text{font-family: 'Open Sans', sans-serif;text-shadow: none !important; font-weight: 300}
+
+.content-ab .intro  .p4-ab{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+}
+.content-ab .intro{padding-bottom: 60px;}
+.content-ab h3 {
+    font-size: 30px;
+    margin-bottom: 0;
+}
+.sub_banner h3{margin-top: 43px;}
+.list-item-lt .item-r .ct-room h5 a{font-weight: bold;}
+.list-item-lt .item-r .ct-room{font-size: 14px;}
+footer ul.li-item-foo.contact-dr li,footer ul.li-item-foo li a{font-size: 14px}
+nav ul li a{font-size:14px;}
+.number-phone{font-size: 14px;}
+.number-phone span{font-size: 15px}
+#dLabel{font-size: 14px;}
+.div-ct .panel-title > a {
+    font-size: 14px;
+}
+@media only screen and (min-width: 992px) and (max-width: 1280px) {
+	#dLabel{font-size: 13px;}
+}
+  @media only screen and (max-width: 767px) {
+	.mn-top .navbar-default .navbar-toggle{margin-top: 11px;padding: 8px 11px 7px;}
+ 	#dLabel{
+ 		padding: 3px 10px 2px;
+ 	}
+ 	.list-0 li {
+	    color: #000;
+	    float: left;
+	    padding: 0 2px;
+	}
+ }
+  @media only screen and (min-width: 320px) and (max-width: 479px) {
+ 	.number-phone{
+ 		width: 158px;
+ 		padding: 3px 5px;
+ 	}
+ 	.phone-nb .lg {
+	    width: 89px;
+	}
+	#dLabel{
+ 		padding: 3px 10px 4px;
+ 	}
+	.mn-top .navbar-default .navbar-toggle{padding: 7px 11px 6px;}
+	.mn-top .navbar-default .navbar-toggle{margin-top: 9px;}
+	.list-0 {
+	    margin: 0 auto;
+	    width: 206px;
+	}
+	.phone-nb .lg {
+	    width: 74px;
+	}
+	.number-phone{width: 173px;}
+ }
